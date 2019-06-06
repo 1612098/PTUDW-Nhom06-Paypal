@@ -1,0 +1,21 @@
+{
+  "name": "paypaltest",
+  "version": "1.0.0",
+  "description": "Paypal Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Paypal"
+  ],
+  "author": "Lâm Cương Đạt",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "path": "^0.12.7",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}

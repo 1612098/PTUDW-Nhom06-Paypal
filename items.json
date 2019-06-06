@@ -1,0 +1,28 @@
+ [{
+    "name": "Red Sox Hat",
+    "sku": "001",
+    "price": "1.0",
+    "currency": "USD",
+    "quantity": 15
+},
+{
+  "name": "Blue Sox Hat",
+  "sku": "002",
+  "price": "1.5",
+  "currency": "USD",
+  "quantity": 1
+},
+{
+    "name": "Blue Sox Hat",
+    "sku": "003",
+    "price": "1.5",
+    "currency": "USD",
+    "quantity": 1
+  },
+  {
+    "name": "Blue Sox Hat",
+    "sku": "004",
+    "price": "1.5",
+    "currency": "USD",
+    "quantity": 1
+  }]
